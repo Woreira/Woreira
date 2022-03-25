@@ -12,4 +12,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="Woreira"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Woreira&theme=gotham" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Woreira&theme=gotham"/>
