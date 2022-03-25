@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/lucas-moreira-b5118117a/">
     <img alt="Woreira's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
+   <a href="https://twitter.com/Woreira">
+    <img alt="Woreira's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
 </p>
 
 <h3 align="center">Hi, I'm a somewhat experienced programmer, working mostly on games and also some other cool-looking stuff. I'm interested with data-structure, AI and graphics.<br></h3>
@@ -14,8 +17,8 @@
 
 <h1>Contact</h1>
 
-- [Twitter](https://twitter.com/Woreira);<br>
-- [Linkedin](https://www.linkedin.com/in/lucas-moreira-b5118117a/);<br>
+- [Twitter](https://twitter.com/Woreira)<br>
+- [Linkedin](https://www.linkedin.com/in/lucas-moreira-b5118117a/)<br>
 
 <br><br><br>
 <p align="center">
