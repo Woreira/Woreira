@@ -23,5 +23,8 @@
 <br><br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="Woreira"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woreira&langs_count=3&theme=gotham" />
+  
  </p>
+ <!---
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woreira&langs_count=3&theme=gotham" />
+---> 
