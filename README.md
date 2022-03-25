@@ -10,4 +10,6 @@
 - Currently working on MARBLEFLOW;<br>
 - Also working on NEATy (Neuro Evolution of Augmented Topologies for Unity);<br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="Woreira"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Woreira&theme=gotham" width="100%"/>
