@@ -4,7 +4,7 @@
   <img alt="Woreira's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
-- Currently working on MARBLEFLOW;  
-- Also working on NEATy (Neuro Evolution of Augmented Topologies for Unity);  
+- Currently working on MARBLEFLOW;<br>
+- Also working on NEATy (Neuro Evolution of Augmented Topologies for Unity);<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
