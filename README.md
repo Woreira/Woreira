@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Hi, I'm a somewhat experienced programmer, working mostly on games and also some other cool-looking stuff. I'm interested with data-structure, AI and graphics.<br></h3>
+<h3 align="center">Hi, I'm a somewhat experienced programmer, working mostly on games and also some other cool-looking stuff. I'm interested in data-structure, AI and graphics.<br></h3>
 
 <h1>Currently...</h1>
 
