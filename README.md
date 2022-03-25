@@ -20,9 +20,5 @@
 <br><br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="Woreira"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woreira&langs_count=3&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woreira&langs_count=3&theme=gotham" />
  </p>
- 
- <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
