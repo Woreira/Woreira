@@ -7,9 +7,22 @@
 
 <h3 align="center">Hi, I'm a somewhat experienced programmer, working mostly on games and also some other cool-looking stuff. I'm interested with data-structure, AI and graphics.<br></h3>
 
+<h1>Currently...</h1>
+
 - Currently working on MARBLEFLOW;<br>
 - Also working on NEATy (Neuro Evolution of Augmented Topologies for Unity);<br>
 
+<h1>Contact</h1>
+
+- [Twitter](https://twitter.com/Woreira);<br>
+- [Linkedin](https://www.linkedin.com/in/lucas-moreira-b5118117a/);<br>
+
+<br><br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham" alt="Woreira"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Woreira"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woreira&langs_count=3&theme=gotham" />
+ </p>
+ 
+ <a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
