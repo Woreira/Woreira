@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello! I'm Woreira.</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello! I'm <a href="https://woreira.github.io/">Woreira</a>.</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/woreira/">
     <img alt="Woreira's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -12,13 +12,14 @@
 
 <h1>Currently...</h1>
 
-- Currently working on MARBLEFLOW;<br>
+- Currently working on Mini Farm;<br>
 - Also working on NEATy (Neuro Evolution of Augmented Topologies for Unity);<br>
 
 <h1>Contact</h1>
 
 - [Twitter](https://twitter.com/Woreira)<br>
 - [Linkedin](https://www.linkedin.com/in/woreira/)<br>
+- [Website](https://woreira.github.io/)<br>
 
 <br><br><br>
 <p align="center">
