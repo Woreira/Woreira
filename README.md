@@ -8,14 +8,7 @@
   </a>
 </p>
 
-<h4 align="center">Contact</h4>
-<p align="center">
-  [Twitter](https://twitter.com/Woreira) | [Linkedin](https://www.linkedin.com/in/woreira/) | [Website](https://woreira.github.io/)
-</p>
-
-<br><br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham&hide=issues,contribs,prs" alt="Woreira"/>
-  
- </p>
+</p>
 
