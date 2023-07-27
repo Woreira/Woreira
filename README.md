@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham&hide=issues,prs,contribs" alt="Woreira"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Woreira&show_icons=true&theme=gotham&hide=issues,prs,contribs&include_all_commits=true&rank_icon=percentile" alt="Woreira"/>
 </p>
 
