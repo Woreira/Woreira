@@ -1,4 +1,5 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h3><h3 align="center"> Hello! I'm <a href="https://woreira.github.io/">Woreira</a></h3>
+<h1></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/woreira/">
     <img alt="Woreira's Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
